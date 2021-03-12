@@ -1,3 +1,5 @@
+# Jesus é meu Senhor e Salvador. Glória e Honra ao Filho de Deus!!!
+#
 # Jogo da forca para exercício de aprendizado de Python
 # Autor: Hamilton Paz
 # Versão 2.0 a partir da versão de demonstração do professor
