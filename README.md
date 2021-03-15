@@ -8,4 +8,6 @@ Para que funcione, é necessário manter junto os arquivos *palavras.py* e *dese
 
 Podem ser incluídas outras categorias. Para isto, basta criar um novo dicionário em cada arquivo. O nome da chave para palavras deve coincidir com a chave para o novo desenho.
 
-Por um mistério da natureza, o jogo funciona perfeitamente no Google Colabs, mas usando a shell do Python não mostra as listas em linha (ainda estou buscando uma solução para este problema).
+Por um mistério da natureza, o jogo funciona perfeitamente no Google Colabs, mas usando a shell do Python não mostra as listas em linha e para solucionar o problema foi necessário reescrever o código do programa substituindo as listas por variáveis do tipo string e mudar as funções para exibição.
+
+A versão 2.1 já está com as correções efetuadas.
